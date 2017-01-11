@@ -75,7 +75,7 @@ Having this knowledge and articulating it is actually flattering, and shows that
 
 Researching your interviewer’s colleagues gives you a sense of the size of the team, who your new colleagues might be, the team structure, what each member does in their role, and what technologies they’re building with.
 
-Additionally, if you’ve read the profiles of 10 of your interviewers colleagues, and you happen to be asked to meet “a few other people in the office” after your initial interview you’ll feel more comfortable because you’ve done your research!
+Additionally, if you’ve read the profiles of 10 of your interviewer's colleagues, and you happen to be asked to meet “a few other people in the office” after your initial interview, you’ll feel more comfortable because you’ve done your research!
 
 ### Look for trends
 
@@ -148,3 +148,5 @@ The more time and effort you put into your research the more you will appear as 
 After all, if you aren’t showing a company that you’re willing to go all out to prepare and capture their attention and interest for a job interview, there is no reason for them to think that you’d do this as an employee.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-research-before-an-interview'>Bootcamp Prep: Research Before an Interview </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-research-before-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
