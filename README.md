@@ -147,6 +147,4 @@ The more time and effort you put into your research the more you will appear as 
 
 After all, if you aren’t showing a company that you’re willing to go all out to prepare and capture their attention and interest for a job interview, there is no reason for them to think that you’d do this as an employee.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-research-before-an-interview'>Bootcamp Prep: Research Before an Interview </a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-research-before-an-interview'>Research Before an Interview</a> on Learn.co and start learning to code for free.</p>
